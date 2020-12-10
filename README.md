@@ -1,5 +1,10 @@
-# xorEncryption-Decription
-Matlab xorEncrypt and xorDecrypt Functions
+Encryption-Decription
+Matlab Functions
+1. xorEncrypt(msg,key).
+2. xorDecrypt(msg,key).
+3.
+4.
+
 
      xorEncrypt  is a simple XOR cipher is a type of additive cipher
      cipherText = xorEncrypt(msg,key) returns the ciphertext of the msg plaintext, 
